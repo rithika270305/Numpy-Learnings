@@ -3,3 +3,7 @@
 2.Combination of speed,efficiency and ease of use.  
 3.Foundation for many libraries like pandas, seaborn, matplotlib, sci-kit learn.  
 4.Various built-in functions of linear algebra, statistics, fourier.  
+
+<B>Numpy broadcasting<B>  
+-> The term broadcasting describes how numpy treats different array's shapes during arithematic operations.  
+-> The smaller array is broadcasted over larger array so that they have compatible shapes.  
